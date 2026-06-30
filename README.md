@@ -2,4 +2,4 @@ Este proyecto es una práctica de integración entre Python y MySQL, donde se es
 
 El objetivo de este proyecto fue aplicar operaciones básicas y el manejo de datos desde scripts en Python.
 
-Se usó Python 3.x, MySQL y la librería: mysql-connector-python
+Se usó Python 3.x, MySQL y la librería mysql-connector-python
